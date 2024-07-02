@@ -5,7 +5,7 @@ I'm deeply curious about understanding the elements around us and making sense o
 
 🌟 Professional Highlights:
 
-Currently leading as a Solution Architect and Head of Business Development at Product Shop, where I'm leveraging my expertise to bring transformative products to market.
+Currently leading Business Development at Product Shop, where I'm leveraging my expertise to bring transformative products to market.
 Engaged in exciting ventures like private Large Language Models (LLMs), focusing on privacy, data security, and cost-effectiveness.
 
 💼 Experience:
